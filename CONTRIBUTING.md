@@ -33,3 +33,5 @@ file][3] for details.
 You can find more information on our website:
 
 https://www.phpmyadmin.net/contribute/
+
+NEW LINE TO TEST MY FIRST CONTRIBUTION....
